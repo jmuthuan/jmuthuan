@@ -11,31 +11,43 @@ My goal is to continue growing in the software development field, applying my pr
 ## Projects
 
 ### Video Games Club
-![Project Screenshot](resources/screenshoot/video_game_club)  
-**Description:** This site was created as a hobby and personal use. It is intended for all people who are passionate about video games. It's fully responsive so you can navigate trough it from almost any device.  
-**Website:** [Project Website](https://video-game-club.netlify.app/)  
-**GitHub Repository:** [GitHub Repo](https://github.com/jmuthuan/webGames)
+![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/video_games_club_screenshot.png)  
+**Description:** 
+This site was created as a hobby and personal use. It is intended for all people who are passionate about video games. It's fully responsive so you can navigate trough it from almost any device.  
+**Website:** 
+[Project Website](https://video-game-club.netlify.app/)  
+**GitHub Repository:** 
+[GitHub Repo](https://github.com/jmuthuan/webGames)
 
 ### Meal App
-![Project Screenshot](https://via.placeholder.com/150)  
-**Description:** You can search your favourites meals. Also you can select your favourite and find them in your personals account whenever you want!  
-**Website:** [Project Website](https://meal-app-jmuthuan.netlify.app/)  
-**GitHub Repository:** [GitHub Repo](https://github.com/jmuthuan/meal_app)
+![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/meal_app_screenshot.png)  
+**Description:** 
+You can search your favourites meals. Also you can select your favourite and find them in your personals account whenever you want!  
+**Website:** 
+[Project Website](https://meal-app-jmuthuan.netlify.app/)  
+**GitHub Repository:** 
+[GitHub Repo](https://github.com/jmuthuan/meal_app)
 
 ### Miduteca
-![Project Screenshot](https://via.placeholder.com/150)  
-**Description:** This site was created as a technical challenge from @midudev.
+![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/miduteca_screenshot.png)  
+**Description:** 
+This site was created as a technical challenge from @midudev.
 On the site you have two list of books. One of this list is 'Available Books', where you can click on any book to get more information about it. Additionally, you can select your favourites books and place them in the 'Readable Books List' using a drag and drop action.  
-**Website:** [Project Website](https://miduteca.netlify.app/)  
-**GitHub Repository:** [GitHub Repo](https://github.com/jmuthuan/library-app)
+**Website:** 
+[Project Website](https://miduteca.netlify.app/)  
+**GitHub Repository:** 
+[GitHub Repo](https://github.com/jmuthuan/library-app)
 
 ### Midu Store App
-![Project Screenshot](https://via.placeholder.com/150)  
-**Description:** This site was created as a technical challenge from @midudev.
+![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/midu_store_screenshot.png)  
+**Description:** 
+This site was created as a technical challenge from @midudev.
 The site was developed for mobile devices and it's not optimized for other devices yet.
 On the site you'll find three main components: a search bar, a list for results after pressing the search button, and a detail product page if you chose any product of the list.
-**Website:** [Project Website](https://midu-store.netlify.app/)  
-**GitHub Repository:** [GitHub Repo](https://github.com/jmuthuan/mini-store-app)
+**Website:** 
+[Project Website](https://midu-store.netlify.app/)  
+**GitHub Repository:** 
+[GitHub Repo](https://github.com/jmuthuan/mini-store-app)
 <!--
 ## Projects
 
