@@ -1,14 +1,16 @@
 # Hi there! 👋
 Welcome to my GitHub page! Here you'll find various projects I've made in the world of software development. Dive in, explore, and don't hesitate to reach out if you have any questions or suggestions.
 
-## About me
+# About me
 I am an Electronic Engineer and a Senior Programming Technician specializing in software development and Android mobile applications. Throughout my career, I have focused on transforming complex challenges into effective technological solutions. With expertise in languages such as **Java**, **Kotlin**, **JavaScript**, and development tools like **Android Studio** and web development, I am passionate about creating software that solves real-world problems, optimizing processes, and enhancing user experiences.
 
 My approach always revolves around understanding clients' needs and problems and turning them into functional solutions. I have a strong ability to research and quickly adapt to new technologies, tools, libraries, and frameworks. I enjoy taking on challenges that require critical and "out-of-the-box" thinking, delivering innovative and tailored solutions for each project.
 
 My goal is to continue growing in the software development field, applying my problem-solving skills and passion for technology to every project, whether in mobile development, web solutions, or more complex systems. In my free time, I enjoy spending time with my family, practicing sports, and continuously exploring new technologies to further advance my professional growth.
 
-## Projects
+# Projects
+
+##Web Development 
 
 ### Video Games Club
 ![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/video_games_club_screenshot.png)  
@@ -48,6 +50,40 @@ On the site you'll find three main components: a search bar, a list for results 
 [Project Website](https://midu-store.netlify.app/)  
 **GitHub Repository:** 
 [GitHub Repo](https://github.com/jmuthuan/mini-store-app)
+
+##Android Development
+
+### Android with Compose
+![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/android_compose.pnghttps://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/android_compose.png)  
+**Description:** 
+Multiple Android projects based on the course ["Android Basics with Compose"](https://developer.android.com/courses/android-basics-compose/course) provided by Google, covering the following topics and more:
+
+* **Kotlin Fundamentals**
+* **Building App UI** - Interacting with UI and managing state
+* **Displaying Lists and Using Material Design**
+* **Navigation and App Architecture** - Navigation in Jetpack Compose, adapting for different screen sizes, using StateFlow and the UDF pattern to manage state and events
+* **Connecting to the Internet** - Fetching data from the internet, loading and displaying images, understanding concurrency basics, and using coroutines in Android apps. Implementing a repository to centralize data access
+* **Data Persistence** - Using Room for data persistence and storing/accessing data with DataStore keys
+* **WorkManager** - Scheduling tasks with WorkManager
+* **Views and Compose** - Integrating Android Views in Compose, and Compose in Views
+
+**GitHub Repository:** 
+[GitHub Repo](https://github.com/jmuthuan/android-basics-kotlin)
+
+### Android Calculator
+![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/calculator_app.png)  
+**Description:** 
+Calculator App with a vintage look, where you can enter a complete operation and get the result. Combine addition, division, subtraction, multiplication, percentages, and parentheses as desired.
+
+**GitHub Repository:** 
+[GitHub Repo](https://github.com/jmuthuan/AndroidProjects/tree/simpleCalculatorApp)
+
+### Notes and Tasks - Notks App
+![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/mynotks_app.png)  
+**Description:** 
+This app lets you store your personal notes or task lists and choose from nine different background colors for each note or list. It uses an SQLite database and the Room library to manage and store data efficiently.
+**GitHub Repository:** 
+[GitHub Repo](https://github.com/jmuthuan/AndroidProjects/tree/myNotksApp)
 <!--
 ## Projects
 
