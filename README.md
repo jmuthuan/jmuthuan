@@ -54,7 +54,7 @@ On the site you'll find three main components: a search bar, a list for results 
 ##Android Development
 
 ### Android with Compose
-![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/android_compose.pnghttps://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/android_compose.png)  
+![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/android_compose.png)  
 **Description:** 
 Multiple Android projects based on the course ["Android Basics with Compose"](https://developer.android.com/courses/android-basics-compose/course) provided by Google, covering the following topics and more:
 
@@ -82,6 +82,7 @@ Calculator App with a vintage look, where you can enter a complete operation and
 ![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/mynotks_app.png)  
 **Description:** 
 This app lets you store your personal notes or task lists and choose from nine different background colors for each note or list. It uses an SQLite database and the Room library to manage and store data efficiently.
+
 **GitHub Repository:** 
 [GitHub Repo](https://github.com/jmuthuan/AndroidProjects/tree/myNotksApp)
 <!--
