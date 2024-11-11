@@ -15,7 +15,8 @@ My goal is to continue growing in the software development field, applying my pr
 ## Web Development 
 
 ### Video Games Club
-![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/video_games_club_screenshot.png){max-width: "800"} 
+![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/video_games_club_screenshot.png)
+<img src="https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/video_games_club_screenshot.png" alt="Descripción" width="200" height="100">
 **Description:** 
 This site was created as a hobby for personal use. It’s designed for people who are passionate about video games and is fully responsive for navigation on almost any device.  
 **Website:** 
@@ -24,7 +25,7 @@ This site was created as a hobby for personal use. It’s designed for people wh
 [GitHub Repo](https://github.com/jmuthuan/webGames)
 
 ### Meal App
-![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/meal_app_screenshot.png){max-width: "800"}   
+![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/meal_app_screenshot.png)
 **Description:** 
 This app allows users to search for their favorite meals. You can also mark meals as favorites and find them in your personal account anytime!  
 **Website:** 
