@@ -16,7 +16,7 @@ My goal is to continue growing in the software development field, applying my pr
 
 ### Video Games Club
 <!--![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/video_games_club_screenshot.png) -->
-<img src="https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/video_games_club_screenshot.png" alt="Descripción" style="max-width: '800'">
+<img src="https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/video_games_club_screenshot.png" alt="Descripción" style="max-width: '750'">
 **Description:** 
 This site was created as a hobby for personal use. It’s designed for people who are passionate about video games and is fully responsive for navigation on almost any device.  
 **Website:** 
@@ -26,7 +26,7 @@ This site was created as a hobby for personal use. It’s designed for people wh
 
 ### Meal App
 <!--![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/meal_app_screenshot.png) -->
-<img src="https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/meal_app_screenshot.png" alt="Descripción" max-width: "800">
+<img src="https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/meal_app_screenshot.png" alt="Descripción" style="max-width: '750'">
 **Description:** 
 This app allows users to search for their favorite meals. You can also mark meals as favorites and find them in your personal account anytime!  
 **Website:** 
@@ -36,7 +36,7 @@ This app allows users to search for their favorite meals. You can also mark meal
 
 ### Miduteca
 <!--![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/miduteca_screenshot.png)-->
-<img src="https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/miduteca_screenshot.png" alt="Descripción" max-width: "800">
+<img src="https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/miduteca_screenshot.png" alt="Descripción" style="max-width: '750'">
 **Description:** 
 This site was created as a technical challenge from @midudev. It includes two book lists: **Available Books**, where you can click on any book for more information, and **Readable Books List**, where you can drag and drop selected books for easier access.  
 **Website:** 
@@ -46,7 +46,7 @@ This site was created as a technical challenge from @midudev. It includes two bo
 
 ### Midu Store App
 <!--![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/midu_store_screenshot.png){max-width: "800"}-->
-<img src="https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/midu_store_screenshot.png" alt="Descripción" max-width: "800">
+<img src="https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/midu_store_screenshot.png" alt="Descripción" style="max-width: '750'">
 **Description:** 
 This site was developed as a technical challenge from @midudev. It’s designed for mobile devices and is not yet optimized for other formats. The app features a search bar, a results list, and a detailed product page for selected items.  
 **Website:** 
@@ -60,7 +60,7 @@ This site was developed as a technical challenge from @midudev. It’s designed 
 
 ### Android with Compose
 <!--![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/android_compose.png)--> 
-<img src="https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/android_compose.png" alt="Descripción" max-width: "800">
+<img src="https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/android_compose.png" alt="Descripción" style="max-width: '750'">
 **Description:** 
 A series of Android projects based on Google’s ["Android Basics with Compose"](https://developer.android.com/courses/android-basics-compose/course) course, covering a range of topics including:
 
@@ -77,7 +77,8 @@ A series of Android projects based on Google’s ["Android Basics with Compose"]
 [GitHub Repo](https://github.com/jmuthuan/android-basics-kotlin)
 
 ### Android Calculator
-![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/calculator_app.png){max-width: "800"}  
+<!--![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/calculator_app.png) -->
+<img src="https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/calculator_app.png" alt="Descripción" style="max-width: '750'">
 **Description:** 
 A Calculator App with a vintage look, allowing you to enter a complete operation and get the result. Supports addition, division, subtraction, multiplication, percentages, and parentheses.
 
@@ -86,7 +87,7 @@ A Calculator App with a vintage look, allowing you to enter a complete operation
 
 ### Notes and Tasks - Notks App
 <!--![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/mynotks_app.png) -->
-<img src="https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/mynotks_app.png" alt="Descripción" max-width: "800">
+<img src="https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/mynotks_app.png" alt="Descripción" style="max-width: '750'">
 **Description:** 
 This app allows you to store personal notes or task lists and choose from nine different background colors for each. It uses an SQLite database and the Room library for efficient data management and storage.
 
