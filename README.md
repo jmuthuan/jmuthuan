@@ -16,7 +16,7 @@ My goal is to continue growing in the software development field, applying my pr
 
 ### Video Games Club
 <!--![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/video_games_club_screenshot.png) -->
-<img src="https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/video_games_club_screenshot.png" alt="Descripción" max-width: "800">
+<img src="https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/video_games_club_screenshot.png" alt="Descripción" style="max-width: '800'">
 **Description:** 
 This site was created as a hobby for personal use. It’s designed for people who are passionate about video games and is fully responsive for navigation on almost any device.  
 **Website:** 
