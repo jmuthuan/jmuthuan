@@ -12,6 +12,46 @@ My goal is to continue growing in the software development field, applying my pr
 
 # Projects
 
+## Android Development
+
+### Android with Compose
+<!--![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/android_compose.png)--> 
+<img src="https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/android_compose.png" alt="Descripción" style="max-width: '750'">
+**Description:** 
+A series of Android projects based on Google’s ["Android Basics with Compose"](https://developer.android.com/courses/android-basics-compose/course) course, covering a range of topics including:
+
+* **Kotlin Fundamentals**
+* **Building App UI** - Interacting with UI and managing state
+* **Displaying Lists and Using Material Design**
+* **Navigation and App Architecture** - Navigation in Jetpack Compose, adapting for different screen sizes, using StateFlow, and the UDF pattern to manage state and events
+* **Connecting to the Internet** - Fetching data from the internet, loading and displaying images, understanding concurrency basics, and using coroutines in Android apps. Implementing a repository to centralize data access
+* **Data Persistence** - Using Room for data persistence and storing/accessing data with DataStore keys
+* **WorkManager** - Scheduling tasks with WorkManager
+* **Views and Compose** - Integrating Android Views in Compose, and Compose in Views
+
+**GitHub Repository:** 
+[GitHub Repo](https://github.com/jmuthuan/android-basics-kotlin)
+
+### Android Calculator
+<!--![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/calculator_app.png) -->
+<img src="https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/calculator_app.png" alt="Descripción" style="max-width: '750'">
+**Description:** 
+A Calculator App with a vintage look, allowing you to enter a complete operation and get the result. Supports addition, division, subtraction, multiplication, percentages, and parentheses.
+
+**GitHub Repository:** 
+[GitHub Repo](https://github.com/jmuthuan/AndroidProjects/tree/simpleCalculatorApp)
+
+### Notes and Tasks - Notks App
+<!--![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/mynotks_app.png) -->
+<img src="https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/mynotks_app.png" alt="Descripción" style="max-width: '750'">
+**Description:** 
+This app allows you to store personal notes or task lists and choose from nine different background colors for each. It uses an SQLite database and the Room library for efficient data management and storage.
+
+**GitHub Repository:** 
+[GitHub Repo](https://github.com/jmuthuan/AndroidProjects/tree/myNotksApp)
+
+---
+
 ## Web Development 
 
 ### Video Games Club
@@ -53,47 +93,6 @@ This site was developed as a technical challenge from @midudev. It’s designed 
 [Project Website](https://midu-store.netlify.app/)  
 **GitHub Repository:** 
 [GitHub Repo](https://github.com/jmuthuan/mini-store-app)
-
----
-
-## Android Development
-
-### Android with Compose
-<!--![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/android_compose.png)--> 
-<img src="https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/android_compose.png" alt="Descripción" style="max-width: '750'">
-**Description:** 
-A series of Android projects based on Google’s ["Android Basics with Compose"](https://developer.android.com/courses/android-basics-compose/course) course, covering a range of topics including:
-
-* **Kotlin Fundamentals**
-* **Building App UI** - Interacting with UI and managing state
-* **Displaying Lists and Using Material Design**
-* **Navigation and App Architecture** - Navigation in Jetpack Compose, adapting for different screen sizes, using StateFlow, and the UDF pattern to manage state and events
-* **Connecting to the Internet** - Fetching data from the internet, loading and displaying images, understanding concurrency basics, and using coroutines in Android apps. Implementing a repository to centralize data access
-* **Data Persistence** - Using Room for data persistence and storing/accessing data with DataStore keys
-* **WorkManager** - Scheduling tasks with WorkManager
-* **Views and Compose** - Integrating Android Views in Compose, and Compose in Views
-
-**GitHub Repository:** 
-[GitHub Repo](https://github.com/jmuthuan/android-basics-kotlin)
-
-### Android Calculator
-<!--![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/calculator_app.png) -->
-<img src="https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/calculator_app.png" alt="Descripción" style="max-width: '750'">
-**Description:** 
-A Calculator App with a vintage look, allowing you to enter a complete operation and get the result. Supports addition, division, subtraction, multiplication, percentages, and parentheses.
-
-**GitHub Repository:** 
-[GitHub Repo](https://github.com/jmuthuan/AndroidProjects/tree/simpleCalculatorApp)
-
-### Notes and Tasks - Notks App
-<!--![Project Screenshot](https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/mynotks_app.png) -->
-<img src="https://github.com/jmuthuan/jmuthuan/blob/main/resources/screenshoot/mynotks_app.png" alt="Descripción" style="max-width: '750'">
-**Description:** 
-This app allows you to store personal notes or task lists and choose from nine different background colors for each. It uses an SQLite database and the Room library for efficient data management and storage.
-
-**GitHub Repository:** 
-[GitHub Repo](https://github.com/jmuthuan/AndroidProjects/tree/myNotksApp)
-
 
 <!--
 
